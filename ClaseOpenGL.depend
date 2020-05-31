@@ -1,0 +1,315 @@
+# depslib dependency file v1.0
+1504817520 source:d:\openglprojects\claseopengl\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1504829437 d:\openglprojects\claseopengl\include\claseopengl.h
+	<gl/gl.h>
+	"modelo3D.h"
+
+1504723776 source:d:\openglprojects\claseopengl\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1504828029 source:d:\openglprojects\claseopengl\src\matrix.cpp
+	"Matrix.h"
+
+1504828730 d:\openglprojects\claseopengl\include\matrix.h
+	"point3d.h"
+	<iostream>
+
+1504828517 source:d:\openglprojects\claseopengl\src\point3d.cpp
+	"point3d.h"
+
+1504828680 d:\openglprojects\claseopengl\include\point3d.h
+	<math.h>
+
+1504828451 source:d:\openglprojects\claseopengl\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1504828838 d:\openglprojects\claseopengl\include\triangle3d.h
+	"point3d.h"
+
+1504829124 source:d:\openglprojects\claseopengl\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+
+1504829021 d:\openglprojects\claseopengl\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+
+1505142813 source:c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1505276739 c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"modelo3D.h"
+
+1505278650 c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+
+1504828840 c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\triangle3d.h
+	"point3d.h"
+
+1504828682 c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\point3d.h
+	<math.h>
+
+1505277462 c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\matrix.h
+	"point3d.h"
+	<iostream>
+
+1505285693 source:c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1505277537 source:c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\matrix.cpp
+	"Matrix.h"
+
+1505285608 source:c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1504828518 source:c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\point3d.cpp
+	"point3d.h"
+
+1505143082 source:c:\nueva carpeta\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1505142814 source:c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1505276740 c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"modelo3D.h"
+
+1505746439 c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+
+1504828840 c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\triangle3d.h
+	"point3d.h"
+
+1505746346 c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\point3d.h
+	<math.h>
+
+1505277464 c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\include\matrix.h
+	"point3d.h"
+	<iostream>
+
+1505746402 source:c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1505277538 source:c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\matrix.cpp
+	"Matrix.h"
+
+1505746450 source:c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1505746367 source:c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\point3d.cpp
+	"point3d.h"
+	<iostream>
+
+1505143084 source:c:\nueva carpeta\claseopengl-13-09-17\claseopengl-07-09-2017-modelo3d-flecha\claseopengl\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1505142814 source:c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1505748158 c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"modelo3D.h"
+
+1505748169 c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+
+1504828840 c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\include\triangle3d.h
+	"point3d.h"
+
+1505746346 c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\include\point3d.h
+	<math.h>
+
+1505277464 c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\include\matrix.h
+	"point3d.h"
+	<iostream>
+
+1505748303 source:c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1505277538 source:c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\src\matrix.cpp
+	"Matrix.h"
+
+1505748182 source:c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1505746367 source:c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\src\point3d.cpp
+	"point3d.h"
+	<iostream>
+
+1505143084 source:c:\nueva carpeta\claseopengl-18-09-2017\claseopengl\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1505142814 source:c:\users\comphysics\downloads\claseopengl\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1505748160 c:\users\comphysics\downloads\claseopengl\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"modelo3D.h"
+
+1505772064 c:\users\comphysics\downloads\claseopengl\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+
+1504828840 c:\users\comphysics\downloads\claseopengl\include\triangle3d.h
+	"point3d.h"
+
+1505746348 c:\users\comphysics\downloads\claseopengl\include\point3d.h
+	<math.h>
+
+1505277464 c:\users\comphysics\downloads\claseopengl\include\matrix.h
+	"point3d.h"
+	<iostream>
+
+1505775400 source:c:\users\comphysics\downloads\claseopengl\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1505277538 source:c:\users\comphysics\downloads\claseopengl\src\matrix.cpp
+	"Matrix.h"
+
+1505774793 source:c:\users\comphysics\downloads\claseopengl\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1505746368 source:c:\users\comphysics\downloads\claseopengl\src\point3d.cpp
+	"point3d.h"
+	<iostream>
+
+1505143084 source:c:\users\comphysics\downloads\claseopengl\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1505139214 source:c:\users\newton\desktop\nueva carpeta\claseopengl\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1505744560 c:\users\newton\desktop\nueva carpeta\claseopengl\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"modelo3D.h"
+
+1505768466 c:\users\newton\desktop\nueva carpeta\claseopengl\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+
+1504825240 c:\users\newton\desktop\nueva carpeta\claseopengl\include\triangle3d.h
+	"point3d.h"
+
+1505742748 c:\users\newton\desktop\nueva carpeta\claseopengl\include\point3d.h
+	<math.h>
+
+1505273864 c:\users\newton\desktop\nueva carpeta\claseopengl\include\matrix.h
+	"point3d.h"
+	<iostream>
+
+1505777478 source:c:\users\newton\desktop\nueva carpeta\claseopengl\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1505273938 source:c:\users\newton\desktop\nueva carpeta\claseopengl\src\matrix.cpp
+	"Matrix.h"
+
+1505771194 source:c:\users\newton\desktop\nueva carpeta\claseopengl\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1505742768 source:c:\users\newton\desktop\nueva carpeta\claseopengl\src\point3d.cpp
+	"point3d.h"
+	<iostream>
+
+1505139484 source:c:\users\newton\desktop\nueva carpeta\claseopengl\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1590902624 source:d:\github\modelo3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1505744560 d:\github\modelo3d\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"modelo3D.h"
+
+1505768466 d:\github\modelo3d\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+
+1504825240 d:\github\modelo3d\include\triangle3d.h
+	"point3d.h"
+
+1505742748 d:\github\modelo3d\include\point3d.h
+	<math.h>
+
+1505273864 d:\github\modelo3d\include\matrix.h
+	"point3d.h"
+	<iostream>
+
+1505777478 source:d:\github\modelo3d\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1505273938 source:d:\github\modelo3d\src\matrix.cpp
+	"Matrix.h"
+
+1505771194 source:d:\github\modelo3d\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1505742768 source:d:\github\modelo3d\src\point3d.cpp
+	"point3d.h"
+	<iostream>
+
+1505139484 source:d:\github\modelo3d\src\triangle3d.cpp
+	"Triangle3D.h"
+
